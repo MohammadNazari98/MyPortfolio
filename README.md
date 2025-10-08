@@ -27,15 +27,19 @@
 ---
 
 ### 3️⃣ بخش مقالات  
-- **توضیح:** امکان مشاهده فهرست مقالات و خواندن محتوای هر مقاله با طراحی گرافیکی جذاب.  
+- **توضیح:** امکان مشاهده فهرست مقالات و خواندن محتوای هر مقاله با طراحی گرافیکی جذاب.
+
 ![Screenshot Project 3](screenshots/articles.png)
+
 ![Screenshot Project 3](screenshots/readarticle.png)
 
 ---
 
 ### 4️⃣ صفحات احراز هویت  
-- **توضیح:** نمونه طراحی صفحات ورود و ثبت‌نام با طراحی ساده و کاربردی.  
+- **توضیح:** نمونه طراحی صفحات ورود و ثبت‌نام با طراحی ساده و کاربردی.
+
 ![Screenshot Project 4](screenshots/login.png)
+
 ![Screenshot Project 4](screenshots/register.png)
 
 ---
