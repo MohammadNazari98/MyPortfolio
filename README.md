@@ -1,3 +1,7 @@
+# 🌐 پروژه‌های هوش مصنوعی – MyPortfolio
+📄 [Project AI Documentation](docs/Credit Card Fraud Detection.pdf)
+📄 [Project AI Documentation](docs/Spam Email Detection.pdf)
+
 # 🌐 نمونه‌کارهای وب من – MyPortfolio
 
 سلام! 👋  
